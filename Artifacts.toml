@@ -1,0 +1,378 @@
+[[xfoil_light]]
+arch = "aarch64"
+git-tree-sha1 = "ce3722d67891eb220b350da461073548fb86509c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "cb44ee9e40d413509c686a2bfd32c636ac2b954bc421b1f55db7a28c1637eb8d"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "aarch64"
+git-tree-sha1 = "83911f77d34507f42274dca784a926034992fc7b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "326d73371645990332c9541d699a1a0288eee186982fca4b2da3b18c4032c7d5"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "aarch64"
+git-tree-sha1 = "dffc8f09c6251d30a4c59f63cb96d11534dfda37"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "e941883fc42efa52377dae3d23ef8eefbac013da4ebcce642944fd2df480daa8"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "aarch64"
+git-tree-sha1 = "c4f3475329a46530123545c92a8daf8c7128c75b"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "4b390c752b66723e2307558e40c8e5a19d1d860587f1a21d0b715ac4f181e430"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "aarch64"
+git-tree-sha1 = "aca8eab077d207ba0c6e9e15b1e2e04cde2bf176"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "42084e106fd441d659ab78df52de8292db95ef50456830d407ab4425d6205621"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "aarch64"
+git-tree-sha1 = "04380dbf56838cb8280db962d3962bc12472b899"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "c534577189dd69293c696f7e1e0ec1586748c64f3ce7a527f0c5708c7c816031"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "armv7l"
+git-tree-sha1 = "04bc072baa872c0faf73efbf295726a180358af7"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "3be3b92ce2c9a102e628a1331d4c669911bf99ec6de822c4a15dd73c1ae22a23"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "armv7l"
+git-tree-sha1 = "8e4252acd5a36a276e6de18453259bbded2e3522"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "38d6eb59993fec7b54e7fa959edaf79adc918061c2d3b40d88bb54b42e8ee418"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "armv7l"
+git-tree-sha1 = "e21709c85729239ea35bb10b8fea79d2e7c3b27a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "98662aa6a6052aa87d25c25a60c33f862918bba443a633fe55962e78a3be56a8"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "armv7l"
+git-tree-sha1 = "b1c9cee19f4771fe9586dbcafbea13a8dcab0ebd"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "a5ede2c625548a290e2dbcf787dc35062d88c3829b1b827cdfeb4f29106c40fb"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "armv7l"
+git-tree-sha1 = "c1f0bd3e279c65e629528be0cc9c1c348a9d2c34"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "03ce0978cb4b0f4cffc1ca7614f61e1ea206e61799efa70b18bf4c55a88840db"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "armv7l"
+git-tree-sha1 = "d17194939ded643bb0c1a3af4ab8bcdbb1139fee"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "adb3a86d19e8f43308a44cef82782463305f575e7bc58ae38c0ea4cc9626e58a"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "i686"
+git-tree-sha1 = "b9ac2cfbc668e1598920c213ed4e23e4cdb045a4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "a47d4ac5eddc7eb1d796a7e9c06fca868e6f1e019ae4b32abe14df610727abab"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "i686"
+git-tree-sha1 = "7309c355aa621097df90cb5477582a4754f5a86b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "9c288d15499bb39512b5760a5f3814139e3cacb84271650427bcddb37a6bda07"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "i686"
+git-tree-sha1 = "a372a446ab8f12d8cb019c555bc5168ef495190b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "a941b98f93acd4aa455f670933fb9728e42f06dbcfcc9ba23fa9316138918d4f"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "i686"
+git-tree-sha1 = "eda9127263810f15730d3dce56bf87095bdc99a2"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "46a8bf91abb68b35888e10951ff624f1949ee60e10b59e4958b06ff1ee521bd2"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.i686-linux-musl-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "i686"
+git-tree-sha1 = "5e66c29d685eae214a546a0fdd6669014ce5e082"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "961864a9c14781166aee15164bd59065bd916ce47e7b41ba5b9b7ff3b2231c18"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "i686"
+git-tree-sha1 = "57a65f05d4a6db480f9359c1560c3ea1cb450459"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "3888d74fc097d83c20642cf9ccfad2ecf38da453b1e72b39d428acaf6deb828b"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "i686"
+git-tree-sha1 = "778c21bc7b1868d092ce59a0c5d89f104d39e057"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[xfoil_light.download]]
+    sha256 = "b7b70974d68b250293482f6d20d8101cd415cb6867f41a4cc10e67d2c244ff23"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "i686"
+git-tree-sha1 = "22f7a7e767944b9ea8dabfc5c35c59ef8041ffe9"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[xfoil_light.download]]
+    sha256 = "0bbd3eb7c66e97e5ecfded2ef7ac76699207e19b4a336de36153fe984a78a88c"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "i686"
+git-tree-sha1 = "51b94a7286cd24370630c9df6dc77a10ee3441d3"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[xfoil_light.download]]
+    sha256 = "a082508006829f6e65fc015d10cb31e6034b48cf846850b1c10c78cfbb8c3754"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "powerpc64le"
+git-tree-sha1 = "5e0eb49b7dfa4992e4c8f0da63c68ec6dd92b4fe"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "59baa7f4d509f29de5d929e478c2b09d091e465fd20e659c80b2ce351c61c7b0"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "powerpc64le"
+git-tree-sha1 = "4b421d9e2a8e14682406d05ab026b5a705a3d09b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "16233ce810407198a93bef26a9674175f9d6534251d74f60a719f545f754ab77"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "powerpc64le"
+git-tree-sha1 = "d3d3a2241e4ca48521e00d2c1e25b96807c54e43"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "f199cc255fb848d82304440154cb565215d71a5552354d588a45e71117a9ebf4"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "8d25442393ceb6cac2a95d98530820771bce7aec"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[xfoil_light.download]]
+    sha256 = "6f40158904197a9369ffa91d46e351e15828c7389cab8198051862e4b735fc27"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "2797f2c8281fd15bdebb1f31549cfed00db2e25b"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[xfoil_light.download]]
+    sha256 = "1cad0424e54e54d768b0a19c211d014c37933d87ce09fd8f7f9bb7f9942fd9b1"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "d87faf6b07a42b17bef9f0ed4d6b11c26cd17ef1"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[xfoil_light.download]]
+    sha256 = "ba8fedfed3f3fa1d37fca3b13aa67c16ee680b4c2390fe95c2c709b906d3eeb2"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "c62bf2cc6b024f582f48cb8a87115fa3b41ab2c0"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "6469dbc792d58730696275c0f09131562de156a3b5251f2a2ac2b094154bbff0"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "a650bba58a55dfea24ad9c1cd64ec827dc7ed8ae"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "2a1b3fbf8ed41755a11b35d0181c6de64d2914ab9d295019b7d1e6ee9759178c"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "40694bef99e0e46d014097976f2fa6b5daba0956"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "8496c8c6766da0c7514429fe34382e583d3a0331724135f196a222eeea6a20a9"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "4c368ab5a54cbdd604bf14916bd412ac5d496711"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "9bc3c7185e97322de88f250658264d5fdc6e1b6534ddf54852e19bcce275a751"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "df86f01238727ab2bed093b53f4db7a953ecedb1"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "16e2f4f3a6c14bb96ef9df832bd3929fd3925af02ec90d1ea1fdd5e3af25af8c"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "396d39e89c0bdaa6549b5b6642bc9849cd50a1f0"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[xfoil_light.download]]
+    sha256 = "084a86a81377da27900ce36ff5620d04147614fb5497a6fab3b4c4d6e6a6414f"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "bbbbdc237eab53c5ba0cc9e3dd531bc5071f6cf5"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[xfoil_light.download]]
+    sha256 = "99e49f311dec9d9533de1ad8f918a12d1fb29dc50612df83b07b1453569ebe78"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "11d9bf239451fedab6b5cd4edac95f71bfbfac49"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[xfoil_light.download]]
+    sha256 = "a485c54708df2d9369528d05866617d77503a01cdb377333c3603f59eb39e93c"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "1134494ed24ab8bac3fd75070c628a858eb87056"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[xfoil_light.download]]
+    sha256 = "f16eda18f46e4ad08b2ac894575260116047bd8b7f95e8d07eb8445fda399432"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "2497d8fad81efc670a058c76557fae2534e9d779"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[xfoil_light.download]]
+    sha256 = "029d2e3e5598c2e6f6655147a28b68d1f9aed9d3a5fd4392978ea164f690ac11"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "42c2eca58adbffa841e09e540fe4a5e5bed84567"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[xfoil_light.download]]
+    sha256 = "128438e6c13594ac0f9c5edaf9abd710dfaf97bb7558922dfad219640fde903b"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[xfoil_light]]
+arch = "x86_64"
+git-tree-sha1 = "ca2e6dee5bc7df4870f3e3813959f17e74619425"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[xfoil_light.download]]
+    sha256 = "4e9ae5f3a686775198520f403a6a80db99334de5ec12bc1201fdf4ff6032985d"
+    url = "https://github.com/JuliaBinaryWrappers/xfoil_light_jll.jl/releases/download/xfoil_light-v0.1.0+0/xfoil_light.v0.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
